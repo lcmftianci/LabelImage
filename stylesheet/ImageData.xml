@@ -1,0 +1,68 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+<ImageDetect>
+<ImageSrc>
+<Width>1024</Width>
+<Height>1024</Height></ImageSrc>
+<Detect>
+<DetectArea>
+<point>x=398 y=757</point>
+<point>x=248 y=720</point>
+<point>x=90 y=517</point>
+<point>x=79 y=338</point>
+<point>x=130 y=209</point>
+<point>x=193 y=151</point>
+<point>x=264 y=102</point>
+<point>x=365 y=69</point>
+<point>x=490 y=76</point>
+<point>x=596 y=113</point>
+<point>x=680 y=189</point>
+<point>x=723 y=276</point>
+<point>x=743 y=323</point>
+<point>x=754 y=394</point>
+<point>x=749 y=491</point>
+<point>x=721 y=569</point>
+<point>x=671 y=663</point>
+<point>x=579 y=717</point>
+<point>x=615 y=795</point>
+<point>x=724 y=747</point>
+<point>x=757 y=638</point>
+<point>x=762 y=382</point>
+<point>x=759 y=255</point>
+<point>x=741 y=159</point>
+<point>x=653 y=110</point>
+<point>x=607 y=86</point>
+<point>x=515 y=58</point>
+<point>x=421 y=32</point>
+<point>x=338 y=41</point>
+<point>x=233 y=49</point>
+<point>x=184 y=54</point>
+<point>x=163 y=73</point>
+<point>x=120 y=129</point>
+<point>x=111 y=156</point>
+<point>x=92 y=188</point>
+<point>x=78 y=215</point>
+<point>x=68 y=252</point>
+<point>x=60 y=305</point>
+<point>x=53 y=345</point>
+<point>x=38 y=437</point>
+<point>x=34 y=485</point>
+<point>x=32 y=581</point>
+<point>x=32 y=634</point>
+<point>x=38 y=661</point>
+<point>x=41 y=686</point>
+<point>x=47 y=726</point>
+<point>x=59 y=764</point>
+<point>x=149 y=946</point>
+<point>x=337 y=979</point>
+<point>x=371 y=972</point>
+<point>x=465 y=962</point>
+<point>x=537 y=941</point>
+<point>x=629 y=908</point>
+<point>x=691 y=864</point>
+<point>x=718 y=834</point>
+<point>x=733 y=822</point>
+<point>x=747 y=757</point>
+<point>x=770 y=686</point></DetectArea></Detect>
+<ImagePath>E:/qtproj/ConfigManager/stylesheet/openfile1.jpg</ImagePath></ImageDetect>
+
